@@ -1,26 +1,11 @@
 [
     {
-        "Location": "Boyle Heights",
-        "Name": "Esquina Bicycle Shop",
-        "Dates": "Jan 18 Saturday",
-        "Aid Type": "Donation Drives, Distribution Hub",
-        "Address": "2228 Whittier Blvd, Los Angeles, California 90026",
-        "Volunteers Needs": "DRIVERS NEEDED THROUGH THE WEEKEND, TRUCKS IF POSSIBLE",
-        "Accepting ": "PPE, N95 respirators, P100 masks, high quality HEPA air purifiers, electric heaters, water, pet food, non-perishable food, gift cards, portable chargers, phone charging cables, detergent, personal hygiene product, diapers, baby formula, menstrual hygiene, toilet paper, paper towels, body wipes, dental hygiene",
-        "Providing": "Water, PPE, portable chargers, gift cards, detergent, shelf-stable foods, n95 masks, 3m p100 masks, PPE, personal hygiene products, batteries, diapers, first aid supplies, toilet paper, paper towels, body wipes, baby formula, cat & dog food, high quality HEPA air purifiers, electric heaters from  \n\nPick up from 12pm - 5pm ",
-        "Notes": "Large donations (box trucks)11am-4pm\n\nSmall donations (cars) 11am-3pm\n\nPick up from 12pm - 5pm ",
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DE5MZNDx136/",
-        "Last Updated": "1/18 8:00 AM"
-    },
-    {
         "Location": "West LA",
         "Name": "COLLINS & KATZ FAMILY YMCA",
         "Dates": "Jan 18 Saturday",
         "Aid Type": "Donation Drives",
         "Address": "1466 S Westgate Ave\nLos Angeles, California 90025",
-        "Volunteers Needs": "Sign up using form",
+        "Volunteers Needs": "X",
         "Accepting ": "dry food, snacks, non-perishables, cereal, rice, pasta, tea, cooking oil, 4T/5T Sized diapers/pullups, new sippy cups, toilet paper, paper towels, sport and energy drinks, scarves, beanies, nail clippers for adults and babies, laundry detergent and softener in small quantities, toiletries, multivitamins, antacids, menstrual products, kids face masks, large tote bags, large boxes, new underwear, socks, bras, air mattresses, thermometer, 1st aid kit, snotsuckers",
         "Providing": NaN,
         "Notes": NaN,
@@ -630,13 +615,103 @@
         "Last Updated": "1/18/2025 8:00 AM"
     },
     {
+        "Location": "Pasadena",
+        "Name": "World Central Kitchen: Passadena Convention Center",
+        "Dates": "Jan 18 Saturday",
+        "Aid Type": "Free Prepared Meals",
+        "Address": "300 E Green St, Pasadena, California 91101",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "Meal Service: 12-8 PM",
+        "Notes": "Pasadena Convention Center, Help WCK provide nourishing hot meals to families impacted by wildfires in California.",
+        "Source": "Website",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://wck.org/news/meal-locations-ca",
+        "Last Updated": "1/18 2:00 PM"
+    },
+    {
+        "Location": "Greater LA Area",
+        "Name": "Peace and Freedom LA - Angelenos Rebuild Volunteer Crew",
+        "Dates": "Jan 18 Saturday",
+        "Aid Type": "Services",
+        "Address": "11221 Paramount Blvd, Downey, CA 90241",
+        "Volunteers Needs": "Community response teams for immediate fire relief: debris cleanup to evacuation support. Register: bit.ly/3DO1WrT\nBuilding Box fan air purifiers",
+        "Accepting ": NaN,
+        "Providing": NaN,
+        "Notes": "All skill levels welcome - we\u2019ll provide training and coordination\n\n",
+        "Source": "Instagram",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEscN8KSkkA/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
+        "Last Updated": "1/18 1:00 PM"
+    },
+    {
+        "Location": "Burbank",
+        "Name": "South Hills Burbank",
+        "Dates": "Jan 18 Saturday",
+        "Aid Type": "Free Prepared Meals, Free Items",
+        "Address": "222 S Victory Blvd, Burbank, California 91502",
+        "Volunteers Needs": "Looking for local businesses to donate relief supplies",
+        "Accepting ": "toiletries, diapers, formula, non-perishable food, snacks, bottled water, electrolyte beverages",
+        "Providing": "food + supplies 11AM- 4PM Sat 1/18",
+        "Notes": NaN,
+        "Source": "Instagram",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqsQ1lPjFd/",
+        "Last Updated": "1/18 1:30 PM"
+    },
+    {
+        "Location": "Woodland Hills ",
+        "Name": "World Central Kitchen: Taft High School",
+        "Dates": "Jan 18 Saturday",
+        "Aid Type": "Free Prepared Meals",
+        "Address": "5461 Winnetka Ave,\nWoodland Hills, CA 91364",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "Meal Service: 12-8 PM",
+        "Notes": "Help WCK provide nourishing hot meals to families impacted by wildfires in California.\nThis location open as of 1/18\n",
+        "Source": "Website",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://wck.org/news/meal-locations-ca",
+        "Last Updated": "1/18 2:00 PM"
+    },
+    {
+        "Location": "Pasadena",
+        "Name": "Day Laborer Network at Pasadena Community Jobs Center",
+        "Dates": "Jan 18 Saturday",
+        "Aid Type": "Distribution Hub",
+        "Address": "500 N Lake Ave, Pasadena CA 91101",
+        "Volunteers Needs": NaN,
+        "Accepting ": "Jan 18\ndonations can be dropped off between 10 and 4pm\n\ncleaning supplies, sponges, ziplocs, garbage bags, paper towels, small bottles of laundry detergents, platic utensils, band-aids, poain medicine, dry foods, canned foods, water\n\nNO clothing, shoes, blankets",
+        "Providing": "\n",
+        "Notes": "doantions to Immigrant Fire Relief Fund",
+        "Source": "Instagram",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/daylaborernetwork/",
+        "Last Updated": "1/18 2:30 PM"
+    },
+    {
+        "Location": "Boyle Heights",
+        "Name": "Esquina Bicycle Shop",
+        "Dates": "Jan 18 Saturday, Jan 19 Sunday",
+        "Aid Type": "Donation Drives, Distribution Hub",
+        "Address": "2228 Whittier Blvd, Los Angeles, California 90026",
+        "Volunteers Needs": "DRIVERS NEEDED THROUGH THE WEEKEND, TRUCKS IF POSSIBLE",
+        "Accepting ": "PPE, N95 respirators, P100 masks, high quality HEPA air purifiers, electric heaters, water, pet food, non-perishable food, gift cards, portable chargers, phone charging cables, detergent, personal hygiene product, diapers, baby formula, menstrual hygiene, toilet paper, paper towels, body wipes, dental hygiene",
+        "Providing": "Water, PPE, portable chargers, gift cards, detergent, shelf-stable foods, n95 masks, 3m p100 masks, PPE, personal hygiene products, batteries, diapers, first aid supplies, toilet paper, paper towels, body wipes, baby formula, cat & dog food, high quality HEPA air purifiers, electric heaters from  \n\n",
+        "Notes": "Large donations (box trucks)11am-4pm\n\nSmall donations (cars) 11am-3pm\n\nPick up from 12pm - 5pm \n\nSUNDAY HOURS:\nDrop Off/ Pick Up: 9am - 4pm\nlarge donations (box trucks) 9AM-4PM",
+        "Source": "Instagram",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DE5MZNDx136/",
+        "Last Updated": "1/18 1:45 PM"
+    },
+    {
         "Location": "Valley Village",
         "Name": "Alder Law & Z.A. Law",
         "Dates": "Jan 18 Saturday, Jan 19 Sunday",
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Donation Drives, Free Items, Free Prepared Meals",
         "Address": "12800 Riverside Drive Valley Village, California, 91607",
         "Volunteers Needs": "For  volunteer sign-ups visit: Empoweredwithgina.com/lawildfire",
-        "Accepting ": NaN,
+        "Accepting ": "Coordinated essential item donations. Ask for Bella when you're there",
         "Providing": "Come for free food, DJ, kids activities and shopping for new/ pre-loved clothes (all sizes), new cosmetics, skincare, essentials, pet supplies, and more! No sign-up required.",
         "Notes": "10a-4p, saturday and sunday",
         "Source": "Instagram",
@@ -945,6 +1020,51 @@
         "Last Updated": NaN
     },
     {
+        "Location": "Pasadena",
+        "Name": "Assumption of the Blessed Virgin Mary School",
+        "Dates": "Jan 18 Saturday, Jan 19 Sunday",
+        "Aid Type": "Distribution Hub, Donation Drives, Free Items",
+        "Address": "2660 E Orange Grove Blvd, Pasadena, California 91107",
+        "Volunteers Needs": NaN,
+        "Accepting ": "All things except clothes",
+        "Providing": "basic needs items, water, clothes, pet items",
+        "Notes": NaN,
+        "Source": "Website",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://school.abvmpasadena.org/",
+        "Last Updated": "1/18 12:30 PM"
+    },
+    {
+        "Location": "Torrance",
+        "Name": "Lomita Alehouse",
+        "Dates": "Jan 18 Saturday, Jan 19 Sunday",
+        "Aid Type": "Donation Drives",
+        "Address": "24123 Narbonne Ave, Lomita, California 90717",
+        "Volunteers Needs": NaN,
+        "Accepting ": "water, food/snacks, blankets, clothing, N95 masks",
+        "Providing": NaN,
+        "Notes": "accepting donations for first responders & those affected by fires until Sunday 1/19 ",
+        "Source": "Instagram",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEk_kauygrG/?hl=en",
+        "Last Updated": "1/18 1:00 PM"
+    },
+    {
+        "Location": "Long Beach",
+        "Name": "Plantiitas",
+        "Dates": "Jan 18 Saturday, Jan 19 Sunday",
+        "Aid Type": "Donation Drives",
+        "Address": "2011 E 4th St, Long Beach, CA 90814",
+        "Volunteers Needs": NaN,
+        "Accepting ": "Wipes, Diapers, Formula, Personal Care Products, Dry Shampoo/Conditioner, Tooth brushes/Paste and Mouth Wash, Personal Undergarments, Blankets, Water",
+        "Providing": NaN,
+        "Notes": "Bring any of the listed items and receive 15% off of pots and plants.\n\nJan 11-19\n11am-6pm",
+        "Source": "Instagram",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/plantiitas/",
+        "Last Updated": "1/18 2:45 PM"
+    },
+    {
         "Location": "Culver City",
         "Name": "Rainbow Acres Natural Foods",
         "Dates": "Jan 18 Saturday, Jan 19 Sunday, Jan 20 Monday",
@@ -1018,6 +1138,21 @@
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqcA3vSXRJ/",
         "Last Updated": "01/17 10:30 PM"
+    },
+    {
+        "Location": "Greater LA Area",
+        "Name": "Bums & Roses",
+        "Dates": "Jan 18 Saturday, Jan 19 Sunday, Jan 20 Monday, Jan 21 Tuesday, Jan 22 Wednesday, Jan 23 Thursday, Jan 24 Friday",
+        "Aid Type": "Free Items",
+        "Address": NaN,
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "children & baby clothes",
+        "Notes": "Applications for clothing are available until 1/24/25",
+        "Source": "Bum & Roses",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://bumsandroses.com/pages/california-wildfire-donation-support?fbclid=PAZXh0bgNhZW0CMTEAAaZk-5S32iJlJ0-W7cNEIpfsGlirBb2NUa-fDFBkRcu83AAaRmmN94yxSSA_aem_igx0K3aDHHXJeuWoRRElHw",
+        "Last Updated": "1/18 1:15 PM"
     },
     {
         "Location": "Culver City",
@@ -1365,6 +1500,21 @@
         "Last Updated": NaN
     },
     {
+        "Location": "Westchester",
+        "Name": "Westchester Family YMCA",
+        "Dates": "Jan 19 Sunday",
+        "Aid Type": "Services, Donation Drives",
+        "Address": "8015 S Sepulveda Blvd., Westchester, California 90045",
+        "Volunteers Needs": "Volunteers needed for Sun 1/19 Sign Up",
+        "Accepting ": "Tea/Coffee, cooking oil, jelly, pet food, kitty litter, dish soap, new water bottles, wheeled luggage, backpacks, lunchbags, new socks and underwear, new bras (all types), towels, tide pods, tampons, pads, shampoo/conditioner, q-tips, headache medicine, cold and flu medicine, baby medication, allergy medicaiton",
+        "Providing": "Providing supplies sunday 1/19 \n\nCHILD CARE: YMCA centers open for child care for students TK-8th grade on Jan 9 and Jan 10 (will update on whether they are doing more days). Contact afterschool@ymcala.org. Open to children of essential workers and children of families who have been displaced.",
+        "Notes": "Hours: Monday-Friday, 6am-9pm",
+        "Source": "Instagram",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/westchesterymca/",
+        "Last Updated": "1/18 2:00 PM"
+    },
+    {
         "Location": "Pasadena",
         "Name": "Dena Relief Drive (Flintridge Center)",
         "Dates": "Jan 19 Sunday, Jan 18 Saturday",
@@ -1650,19 +1800,19 @@
         "Last Updated": "1/18 12:00 AM"
     },
     {
-        "Location": "Remote",
-        "Name": "Inclusive Action for the City - Open Air Worker Emergency Fund",
-        "Dates": NaN,
-        "Aid Type": "Direct Funds/Grants",
+        "Location": "Little Tokyo",
+        "Name": "J-Town Action",
+        "Dates": "Jan 24 Friday",
+        "Aid Type": "Donation Drives, Free Items, Wifi/Charging, Free Prepared Meals",
         "Address": NaN,
-        "Volunteers Needs": NaN,
-        "Accepting ": "Financial donations HERE",
-        "Providing": "During the ongoing wildfire emergency in Los Angeles County, Inclusive Action has launched a new emergency fund to help outdoor workers \u2013 street vendors, landscapers, and recyclers \u2013 impacted by the fires.\n\nThrough this fund, impacted outdoor workers can apply for one-time cash assistance support of $500. Recipients will receive cash payments on a first-come, first-served basis, and as funding allows.  ",
-        "Notes": "Apply by Friday, January 17 at 5 pm \n(May reopen in the future)",
-        "Source": "Inclusive Action",
+        "Volunteers Needs": "Power-Up events on Saturdays at 2pm - help serve meals, distribute supplies, and provide electricity with their team.",
+        "Accepting ": "Tents, Blankets, Tarps, Wipes, Goggles, Aspirin",
+        "Providing": "Meals, supplies, electricity",
+        "Notes": "Donation drive Tuesday 1/14 at @scribble.community and Wednesday 1/15 at @pieterperformancespace.\nLA Fire Relief and Mutual Aid Opportunities 1/24 7:30pm - 12:30am",
+        "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.inclusiveaction.org/workeraid?fbclid=PAZXh0bgNhZW0CMTEAAaZkn_1Lq6iSZOYQIvMeMceC8GSpJayHFRWZ2EEQYGkmbB3dWbn78oVrnbc_aem_Q7qE6_rYAbftOmCY7ivnNg",
-        "Last Updated": "1/16 11:45 PM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEvs1rjyaCy/",
+        "Last Updated": "1/18 2:15 PM"
     },
     {
         "Location": "Culver City",
@@ -1671,13 +1821,13 @@
         "Aid Type": "Donation Drives",
         "Address": "4700 Inglewood Blvd\nCulver City, California 90230",
         "Volunteers Needs": "Drivers needed during the week to drop off donations to families\n\nbefore 3 pm\n\n1/15, 1/16, 1/17",
-        "Accepting ": "NO LONGER ACCEPTING DONATIONS\n\ngift cards: grocery stores, amazon, target, uber, air mattresses (with pump), chargers (apple and android), charger/battery packs, men's shoes/clothing, all shoes, adult diapers, wipes, adult bed pads, mini water bottles, and LUGGAGE!\n\nall clothes must be pre-washed, no stains and no holes ",
+        "Accepting ": "NO LONGER ACCEPTING DONATIONS",
         "Providing": "Suitcases filled with essentials for those affected by the fires\n\nFill out the form here",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DExTvAFpriU/?hl=en",
-        "Last Updated": "1/17 4:00 PM"
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Inglewood",
@@ -1692,7 +1842,7 @@
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.fire.ca.gov/incidents/2025/1/7/palisades-fire/updates/c9204d54-4a92-4906-b18a-c97e1ede62f4",
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "North Hollywood",
@@ -1731,13 +1881,13 @@
         "Aid Type": "Shelter",
         "Address": "997 East Walnut Street, Pasadena, California 91106",
         "Volunteers Needs": NaN,
-        "Accepting ": "They are in need of lunches and dinners for 50 people this week, but they must be made in a commercial kitchen. If you know a restaurant that can help, please email laurav@friendsindeedpas.org",
-        "Providing": "Food pantry: Tuesday & Wednesday: 10 a.m. \u2013 3 p.m. Thursday: 10 a.m.\u2013 1 p.m.\n\nBad Weather Shelter: Open 24/7 through Thursday 1/16 for a safe & welcoming space for those experiencing homelessness",
-        "Notes": "Adults only Trinity Lutheran Church\nBack of the church, 984 Locust St. \nMaximum 59 guests\nContact Info: 1(626) 831-2807\n\nThe Women\u2019s Room will be closed this week. TWR guests encouraged to visit the Bad Weather Shelter for meals and resources. Updates to be provided when TWR is ready to reopen.",
+        "Accepting ": NaN,
+        "Providing": "Shelter, hot meals. \n\n",
+        "Notes": "Community members can call 888-915-8111 to check if the shelter is activated. For more information about the shelter or to volunteer, please contact Laura Van Alstine, Director of the Bad Weather Shelter, at laurav@friendsindeedpas.org.\n\nThe Women\u2019s Room plans to open Tuesday 1/21, Wednesday, and Thursday next week with modified operations. Our guests can come by for showers, laundry, hygiene items, and to-go lunches.",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEs_ZSjScZc/?img_index=1",
-        "Last Updated": "1/16 7:30 PM"
+        "Last Updated": "1/18 2:00 PM"
     },
     {
         "Location": "Sherman Oaks",
@@ -2997,7 +3147,7 @@
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEn6icmysFm/?utm_source=ig_web_copy_link",
-        "Last Updated": "1/13 10:30 AM"
+        "Last Updated": "1/18 1:45 PM"
     },
     {
         "Location": "DTLA",
@@ -3146,8 +3296,8 @@
         "Notes": "Mail products, they pay for shipping",
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/15 8:00 PM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/cocokind/",
+        "Last Updated": "1/18 12:00 PM"
     },
     {
         "Location": "Greater LA Area",
@@ -3378,16 +3528,16 @@
         "Location": "Koreatown",
         "Name": "Mutual Aid Action LA",
         "Dates": NaN,
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Free Items",
         "Address": "2515 W. 7th St Los Angeles, California 90057",
         "Volunteers Needs": NaN,
-        "Accepting ": "Diapers sizes 2t 3t 4t 5t 6t, adult socks all genders, adult underwear all genders, kid medicine, kid toiletries, dry formula, kids socks and underwear, baby wipes (fragrance free), aspirin, advil, pain meds, baby aspirin, tylenol, motrin, adult toiletries all genders, menstrual products, shampoo and conditioner, body wash, razors, lotion, hair products, brushes, toothbrushes, toothpaste, dental floss, kids toiletries, hair brushes, towels and wash cloths, deodorant, alcohol and hydrogen peroxide, kids snacks, baby food, shelf stable foods, utensils and plates, reusable bags, boxes for carrying, need tents, blankets, flashlights, water welcomed, beverages, cleaning supplies, paper towels, toilet paper, 2 fire exringuishers",
+        "Accepting ": NaN,
         "Providing": NaN,
-        "Notes": "Available for drop off between 10:30 am - 12 pm \n\nDMed 1/15, no response",
+        "Notes": "Community Pantry & Space\nM-F 9am-6pm \nSat+Sun: 9am-8pm",
         "Source": "Instagram ",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/montebellobarn_yardzoo/?hl=en",
-        "Last Updated": "1/15 9:45 PM"
+        "Last Updated": "1/18 12:00 PM"
     },
     {
         "Location": "Lake View Terrace",
@@ -3447,7 +3597,7 @@
         "Source": "iPhone Repair 310 Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/agnes_pasadena/?hl=en",
-        "Last Updated": "1/13 3:39 PM"
+        "Last Updated": "1/18 2:00 PM"
     },
     {
         "Location": "Marina del Rey",
@@ -3531,13 +3681,13 @@
         "Aid Type": "Animal Boarding",
         "Address": "600 Rea Drive, Montebello, California 90640",
         "Volunteers Needs": NaN,
-        "Accepting ": "NOT ACCEPTING DONATIONS AT THIS TIME",
+        "Accepting ": "Monetary donations to support evacuated animals they are boarding",
         "Providing": "animal boarding",
-        "Notes": "call 213 718 5442 to ask about housing horses/farm animals",
+        "Notes": "pulic contact call 213 718 5442\nWed-friday 10-5pm\nSaturday's and Sundays 10-5pm",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEkyfGWJKGC/?igsh=NTc4MTIwNjQ2YQ==",
-        "Last Updated": "01/15 10:00 PM"
+        "Last Updated": "01/18 12:00 PM"
     },
     {
         "Location": "Montrose",
@@ -3608,11 +3758,11 @@
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
         "Providing": NaN,
-        "Notes": "Absorbed El Camino Real High School Emergency Evacuation Center ",
+        "Notes": "Absorbed El Camino Real High School Emergency Evacuation Center \n\nClasses and sports programs are postponed until further notice. Please call the center if you have any questions. Thank you for your patience during this time.",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEn158xy2fA/?img_index=1",
-        "Last Updated": "1/15 11:10 PM"
+        "Last Updated": "1/18 12:00 PM"
     },
     {
         "Location": "Pacoima",
@@ -3627,7 +3777,7 @@
         "Source": "SCC Evacuation Centers",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEkfFkMvvI-/",
-        "Last Updated": "1/13 7:30 PM"
+        "Last Updated": "1/18 12:00 PM"
     },
     {
         "Location": "Palmdale",
@@ -3642,7 +3792,7 @@
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/lasorteds/",
-        "Last Updated": "1/15 8:50 PM"
+        "Last Updated": "1/18 12:00 PM"
     },
     {
         "Location": "Pasadena",
@@ -3656,23 +3806,8 @@
         "Notes": "Call or text (626) 319-1238 to see if space is available\n",
         "Source": "Website",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/skidrowpeoplesmarket/?hl=en",
-        "Last Updated": "1/13 7:00 PM"
-    },
-    {
-        "Location": "Pasadena",
-        "Name": "World Central Kitchen: Pasadena City College",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "1570 E Colorado Blvd, Pasadena, California 91106",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "Meal Service:  5:00 PM - 8:00 PM ",
-        "Notes": "Help WCK provide nourishing hot meals to families impacted by wildfires in California.",
-        "Source": "World Central Kitchen\nThis page was last updated: Sunday, January 12, 2025",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DElrRAypOQ7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
-        "Last Updated": "1/13 10:15 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.mypetgarden.com/products/shop/",
+        "Last Updated": "1/18 2:00 PM"
     },
     {
         "Location": "Pasadena",
@@ -3777,7 +3912,7 @@
         "Source": "Website ",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqOjy3TISQ/",
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Paso Robles",
@@ -3792,7 +3927,7 @@
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://zacacreekranch.wpcomstaging.com",
-        "Last Updated": "01/15 8:24 PM"
+        "Last Updated": "01/18 12:00 PM"
     },
     {
         "Location": "Pico Rivera",
@@ -3860,14 +3995,14 @@
         "Dates": NaN,
         "Aid Type": "Donation Drives",
         "Address": NaN,
-        "Volunteers Needs": "Local restaurants willing to partner and provide prepared meals",
-        "Accepting ": "Water, electrolyte drinks, energy drinks",
+        "Volunteers Needs": "The A List is providing clothing and essential products to families displaced or affected by the fires.",
+        "Accepting ": "If you are a brand interested in getting involved, please email firerelief@thealist.us.\n\n",
         "Providing": NaN,
-        "Notes": "Help feed incarcerated firefighters breakfast and dinner for the next 10 days. Contact Linsay Rachelefsky (310) 497-5573",
-        "Source": NaN,
+        "Notes": "Help feed incarcerated firefighters breakfast and dinner for the next 10 days. Contact Linsay Rachelefsky (310) 497-5573\n\nIf you are a brand interested in getting involved, please email firerelief@thealist.us.\n\n",
+        "Source": "Website",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/11 6:32 PM"
+        "LINK (DO NOT HYPERLINK)": "https://thealist.us/la-fire-relief",
+        "Last Updated": "1/18 12:30 PM"
     },
     {
         "Location": "Remote",
@@ -3882,7 +4017,7 @@
         "Source": "Protect Genasys",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/15 10:14 AM"
+        "Last Updated": "1/18 12:00 PM"
     },
     {
         "Location": "Remote",
@@ -4073,11 +4208,11 @@
         "Volunteers Needs": NaN,
         "Accepting ": "clothing (have enough women's, need mens/kids/babies clothes), clean socks, tampons/pads, blankets, towels, N95 and P100 masks, batteries, powder banks, canned foods, non perishables, instant oatmeal, ramen cups, snacks, drinking water, eyeglasses, contact solution, first aid supplies, dog/cat food, meal replacement bars and energy drinks and coffee",
         "Providing": "listed items as well as 1 week packs of dog and cat food",
-        "Notes": "coffeeshops, anyone with access to coffee and energy drinks, please contact them. these will go straight to first responders. \n\nFill out this form if you are in need of supplies",
+        "Notes": "DONATIONS ON HOLD UNTIL TUES 1/21\ncoffeeshops, anyone with access to coffee and energy drinks, please contact them. these will go straight to first responders. \n\nFill out this form if you are in need of supplies",
         "Source": "@ openclosit OR @ elizabethcturner on insta",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEpR-SdpaXX/?hl=en",
-        "Last Updated": "1/13 7:30 AM"
+        "Last Updated": "1/18 2:00 PM"
     },
     {
         "Location": "Sherman Oaks",
@@ -4104,10 +4239,10 @@
         "Accepting ": NaN,
         "Providing": "Overnight evacuation site",
         "Notes": "Open 24 hours\nactive as of 1/13 7:30am",
-        "Source": "Instagram Post",
+        "Source": "LAFD",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEpR-SdpaXX/?hl=en",
-        "Last Updated": "1/15 6:30 PM"
+        "LINK (DO NOT HYPERLINK)": "https://lafd.org/news/palisades-fire-0#:~:text=West%3A%20Louise%20Ave.-,EVACUATION/SHELTER%20CENTER%3A,-Westwood%20Recreation%20Center",
+        "Last Updated": "1/18 12:00"
     },
     {
         "Location": "Silverlake",
@@ -4241,7 +4376,7 @@
         "Notes": NaN,
         "Source": "Animal Hopital Site",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://sagaftra.foundation/",
+        "LINK (DO NOT HYPERLINK)": "https://centersinaianimalhospital.com/",
         "Last Updated": "1/13 7:45 AM"
     },
     {
@@ -4272,22 +4407,7 @@
         "Source": NaN,
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/12 3:40 PM"
-    },
-    {
-        "Location": "Westchester",
-        "Name": "Westchester Family YMCA",
-        "Dates": NaN,
-        "Aid Type": "Services, Donation Drives",
-        "Address": "8015 S Sepulveda Blvd., Westchester, California 90045",
-        "Volunteers Needs": NaN,
-        "Accepting ": "Water/Gatorade (Bottles Drinks), Laundry Detergent, Baby Food and Formula, Wheeled Luggage, Pasta/Red Sauce & All Food, Black men's and Women's Hair Care New underwear (men's, women's, children's all sizes, Sleeping Bags/Cots, Only Infant Clothing, Paper Towels & Toilet Paper, School Supplies",
-        "Providing": "CHILD CARE: YMCA centers open for child care for students TK-8th grade on Jan 9 and Jan 10 (will update on whether they are doing more days). Contact afterschool@ymcala.org. Open to children of essential workers and children of families who have been displaced.",
-        "Notes": "Hours: Monday-Friday, 6am-9pm",
-        "Source": NaN,
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DE3v2HXJOup/",
-        "Last Updated": "1/13 1:45 PM"
+        "Last Updated": "1/18 1:45 PM"
     },
     {
         "Location": "Westlake",
@@ -4298,11 +4418,11 @@
         "Volunteers Needs": "Calvary Fire Response Volunteer Team Form",
         "Accepting ": "Financial Donations: https://pushpay.com/g/calvarywestlake\n\ndiapers, baby formula, baby wipes, non-perishable food items",
         "Providing": "Partnership with Redcross and LA county Officials: Shelter for Refugees. Hosting Firefighters to be able to sleep and Shower. \n\nWelcoming anyone who needs a safe and secure place to sit, work, charge devices, or access WiFi to come to our church campus. Facility is currently available to accommodate this need and anyone is welcome to come today through Thursday. The hours we will be open are 9am-7pm.",
-        "Notes": "Parking: Enter through gate A and Park in Lot A; furthest from the 101 fwy Calvary Communion Church \n\nactive as of 1/13 7:45 am",
+        "Notes": "Parking: Enter through gate A and Park in Lot A; furthest from the 101 fwy Calvary Communion Church \n\nlast update 1/13 7:45 am on instagram",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/13 7:00 PM"
+        "Last Updated": "1/18 2:15 PM"
     },
     {
         "Location": "Westwood",
@@ -4313,11 +4433,11 @@
         "Volunteers Needs": "Looking for volunteers to foster dogs and cats and to help at the centers",
         "Accepting ": "monetary donations to help evacuated animals",
         "Providing": "Both Granada Hills and Westwood locations have pet pantries open from 8am-6pm with pet food, cat litter, pet beds, and human sanitary products. No appointment needed. ",
-        "Notes": "If you can help board animals, email FosterLA@bestfriends.org",
-        "Source": "Instagram",
+        "Notes": "If you can help board animals, email FosterLA@bestfriends.org\n\nHelp locating a lost pet call : 213-270-8155",
+        "Source": "Instagram\nwebsite",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://lacounty.gov/emergency/",
-        "Last Updated": "1/13 12:30 PM"
+        "LINK (DO NOT HYPERLINK)": "https://bestfriends.org/emergency-response/los-angeles-wildfires",
+        "Last Updated": "1/18 2:15 PM"
     },
     {
         "Location": "Westwood",
@@ -4341,13 +4461,13 @@
         "Aid Type": "Donation Drives, Free Items",
         "Address": "88 E. Union Street, Pasadena, California 91103",
         "Volunteers Needs": "[In-Person Volunteers at Capacity]",
-        "Accepting ": "Priority: gift cards, diapers, wipes\n\n[No other donations be accepted at this time]",
+        "Accepting ": "Accepting new makeup for DARKER skin tones and venmo donations to purchase make up Venmo @saffroncowboy ",
         "Providing": "Prioritizing BIPOC community individuals/families members food and supplies for first responders and affected people. Open 9-4pm daily.",
         "Notes": "donations can be sent on venmo to @saffroncowboy. \n\nVolunteer Sign-up: https://docs.google.com/spreadsheets/d/1hJZeTasw__AZQRGNMdAI5yfYGgdHq7JOkfodu-u8_pg/edit?gid=0#gid=0",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx6G_MTfI2/",
-        "Last Updated": "01/13/25 1:30 PM"
+        "Last Updated": "01/18/25 2:15 PM"
     },
     {
         "Location": "Remote",
@@ -4538,11 +4658,11 @@
         "Volunteers Needs": "No longer needed",
         "Accepting ": "non-perishable food, new & gently used clothes, new toiletries, children's toys, new bedding, blankets, N95 masks, phone chargers, baby items, pet supplies, flashlights",
         "Providing": "showers & lockers, child activity center, fitness access center, wifi & work room, community space, friends. everyone welcome! ",
-        "Notes": "Current semi-urgent need for flashlights",
+        "Notes": NaN,
         "Source": "instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/spsm_y/",
-        "Last Updated": "1/13 2:49 PM"
+        "Last Updated": "1/18 2:15 PM"
     },
     {
         "Location": "Remote",
@@ -4583,26 +4703,11 @@
         "Volunteers Needs": "At capacity for the drop on 1/19 but volunteers can sign up for a future water drop at wdla.carrd.co",
         "Accepting ": "Clean clothing, tarps, snacks, masks, zip ties, first aid supplies, menstrual products, pet food, flaslights, items from wishlist at wdla.carrd.co ",
         "Providing": NaN,
-        "Notes": "Accepting donations between 10am and 11:30am on 1/12",
+        "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqG6TVyW2A/",
-        "Last Updated": "1/15 7:00 PM"
-    },
-    {
-        "Location": "Little Tokyo",
-        "Name": "J-Town Action",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives, Free Items, Wifi/Charging, Free Prepared Meals",
-        "Address": NaN,
-        "Volunteers Needs": "Power-Up events on Saturdays at 2pm - help serve meals, distribute supplies, and provide electricity with their team.",
-        "Accepting ": "Tents, Blankets, Tarps, Wipes, Goggles, Aspirin",
-        "Providing": "Meals, supplies, electricity",
-        "Notes": "Donation drive Tuesday 1/14 at @scribble.community and Wednesday 1/15 at @pieterperformancespace.\n",
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEvs1rjyaCy/",
-        "Last Updated": "1/13 11:50 PM"
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Gardena",
@@ -4725,36 +4830,6 @@
         "Last Updated": "1/17 11:15 PM"
     },
     {
-        "Location": "Encino",
-        "Name": "Zartonk Media (Holy Martyrs Ferrahian High School)",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives",
-        "Address": "5300 White Oak Ave, Encino, California 91316",
-        "Volunteers Needs": NaN,
-        "Accepting ": "hygiene items, menstrual supplies, bottled water, blankets, first aid kits, diapers, formula, wipes, paper towels, portable chargers, pet food, new or lightly used clothes",
-        "Providing": NaN,
-        "Notes": "Call 818-396-7005 for info",
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqRm-5Tk0g/?img_index=1",
-        "Last Updated": "1/11 7:30 PM"
-    },
-    {
-        "Location": "Pasadena",
-        "Name": "Zartonk Media (Jivalagian Youth Center)",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives, Distribution Hub",
-        "Address": "2242 E Foothill Blvd, Pasadena, California 91107",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "hygiene items, menstrual supplies, bottled water, blankets, first aid kits, diapers, formula, wipes, paper towels, portable chargers, pet food, new or lightly used clothes",
-        "Notes": "Closes at midnight, not able to take anymore donations at this moment. Call 818-396-7005 for info",
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqRm-5Tk0g/?img_index=1",
-        "Last Updated": "1/12 6:00 PM"
-    },
-    {
         "Location": "Remote",
         "Name": "Disability and Disaster Hotline",
         "Dates": NaN,
@@ -4823,11 +4898,11 @@
         "Volunteers Needs": NaN,
         "Accepting ": "No longer accepting items as of Mon, Jan 13",
         "Providing": "supplies, hygiene and menstrual items, diapers, wipes, new/unused baby items, baby formula, kids toys, new bedding, cleaning supplies, masks, and much more.\n\nReach out on Instagram for Delivery to Address. ",
-        "Notes": "As of Jan 13, they are pausing operations as drop-off center. ",
+        "Notes": "As of Jan 13, they are pausing operations as drop-off center.\n\nStill providing resources to those in need; contact on instagram  ",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/sovern.la/",
-        "Last Updated": "1/13 1:30 PM"
+        "Last Updated": "1/18 2:15 PM"
     },
     {
         "Location": "Pasadena",
@@ -4867,27 +4942,12 @@
         "Address": "100 S Broadway, Los Angeles, California 90015",
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
-        "Providing": "Discounted room rates using code LAFIRE (must be 7+ days)",
+        "Providing": "25% off short stays and $219/night room rates for 7+ days",
         "Notes": "All Southern California locations offering support",
         "Source": "Proper Hotel",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.properhotel.com/downtown-la/",
-        "Last Updated": "1/13 7:00 PM"
-    },
-    {
-        "Location": "Pasadena",
-        "Name": "Assumption of the Blessed Virgin Mary School",
-        "Dates": NaN,
-        "Aid Type": "Distribution Hub, Donation Drives, Free Items",
-        "Address": "2660 E Orange Grove Blvd, Pasadena, California 91107",
-        "Volunteers Needs": NaN,
-        "Accepting ": "All things except clothes",
-        "Providing": "A lot of clothes, but many other donations (not specified), Food truck on 1/11 from 11am-7pm partnered with World Central Kitchen",
-        "Notes": NaN,
-        "Source": "Website",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://school.abvmpasadena.org/",
-        "Last Updated": "1/11 7:15 AM"
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Culver City",
@@ -4902,7 +4962,7 @@
         "Source": "Fatty Mart",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.fattymart.com/fire-resources",
-        "Last Updated": "1/11 8:22 AM"
+        "Last Updated": "1/18 12:30 PM"
     },
     {
         "Location": "Greater LA Area",
@@ -4917,22 +4977,7 @@
         "Source": "Office of the Assessor",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://res.cloudinary.com/los-angeles-county-assessor/image/upload/v1736540235/Factsheet/Relief_for_Properties_Impacted_By_A_Disaster.pdf",
-        "Last Updated": "1/11 9:00 AM"
-    },
-    {
-        "Location": "Pasadena",
-        "Name": "World Central Kitchen: Passadena Convention Center",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "300 E Green St, Pasadena, California 91101",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "Meal Service: 12-8 PM",
-        "Notes": "Pasadena Convention Center, Help WCK provide nourishing hot meals to families impacted by wildfires in California.",
-        "Source": "Website",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://wck.org/news/meal-locations-ca",
-        "Last Updated": "1/17 8:15 PM"
+        "Last Updated": "1/18 12:30 PM"
     },
     {
         "Location": "Greater LA Area",
@@ -4947,37 +4992,7 @@
         "Source": "Listos California",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.listoscalifornia.org/",
-        "Last Updated": "1/11 3:40 AM"
-    },
-    {
-        "Location": "Greater LA Area",
-        "Name": "Canine Rescue Club",
-        "Dates": NaN,
-        "Aid Type": "Animal Boarding",
-        "Address": NaN,
-        "Volunteers Needs": "temporary foster care for dogs displaced by the fires",
-        "Accepting ": NaN,
-        "Providing": NaN,
-        "Notes": NaN,
-        "Source": "Canine Rescue Club",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://linktr.ee/caninerescueclub?fbclid=PAZXh0bgNhZW0CMTEAAaafVEDvjkbXHWyL39UqjY4QXSwz0Ck-ncXS22k71oSY3C8KFlGDJTmcv3E_aem_NsRPJLJNTSs0pxlyajhOJA",
-        "Last Updated": "1/11 3:40 AM"
-    },
-    {
-        "Location": "Greater LA Area",
-        "Name": "Lyft",
-        "Dates": NaN,
-        "Aid Type": "Transportation",
-        "Address": NaN,
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "Promo code CAFIRERELIEF25 for $25 off rides to shelters",
-        "Notes": NaN,
-        "Source": "Lyft",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.lyft.com/blog/posts/help-for-those-impacted-by-wildfire-in-california",
-        "Last Updated": "1/11 1:00 PM"
+        "Last Updated": "1/18 12:30 PM"
     },
     {
         "Location": "Greater LA Area",
@@ -4988,11 +5003,11 @@
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
         "Providing": "Groceries for writers",
-        "Notes": NaN,
+        "Notes": "THE GROCERIES FOR WRITERS PROJECT IS PRIORITIZING SUPPORT FOR WGA WRITERS AND THEIR SUPPORT STAFF DISPLACED BY THE 2025 LOS ANGELES FIRES. THE DISTRIBUTION CAP HAS BEEN RAISED FROM SIX TO EIGHT CARDS.",
         "Source": "Humanitas - Groceries",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://docs.google.com/forms/d/e/1FAIpQLSfmCu-YWYFenMNWD20cCqJu6k63NCvhLmUZ8-Zss9gwB5f2zg/viewform",
-        "Last Updated": "1/11 3:40 AM"
+        "Last Updated": "1/18 12:45 PM"
     },
     {
         "Location": "Remote",
@@ -5003,11 +5018,11 @@
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
         "Providing": "Fire information, evacuations, shelters, etc",
-        "Notes": NaN,
+        "Notes": "211 LA is partnering with Airbnb.org, American Express, and Hilton to coordinate the distribution of emergency housing for people displaced by wildfires.\nThose who have already applied with 211LA are eligible and do not need to apply again for this new resource.\nIndividuals who have not yet applied with 211 LA can complete an application online.",
         "Source": "211 LA",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://211la.org/LA-Wildfires",
-        "Last Updated": "1/11 3:40 AM"
+        "Last Updated": "1/18 12:45 PM"
     },
     {
         "Location": "Highland Park",
@@ -5018,11 +5033,11 @@
         "Volunteers Needs": "Therapists needed",
         "Accepting ": NaN,
         "Providing": "low fee or probono therapy, N95 masks, water, covid tests",
-        "Notes": "No idea if they're still offering N95s, water, Covid tests. They're still accepting entries for both therapists and people who'd like to request therapy, though (update 1/15 @ 21:47)",
+        "Notes": NaN,
         "Source": "Scribble",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://linktr.ee/scribblecommunity?fbclid=PAZXh0bgNhZW0CMTEAAaZowan2-wlSTix4yfKYHpXKLYKV_JGwhGo98dmtp48JxFXWa7av2D8nRkI_aem_AyZlMzBdxvvLx2z_hFn6dQ",
-        "Last Updated": "1/15 9:47 PM"
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Inglewood",
@@ -5031,13 +5046,13 @@
         "Aid Type": "Donation Drives, Free Items",
         "Address": "6533 West Blvd, Inglewood, California 90302",
         "Volunteers Needs": NaN,
-        "Accepting ": "zip ties, tarps, tents, nasal sprays, inhalers, blankets, socks, diapers, baby formula, pet food",
+        "Accepting ": "Masks\nzipties\ntarps\nbaby wipes\nBlack hair products\nDeodorant\nDiapers\nSoap\nBlankets\nPillows (new)\nGloves (any)\nSocks",
         "Providing": "food & water, zip ties, tarps, tents, nasal sprays, inhalers, blankets, socks, diapers, baby formula, pet food",
-        "Notes": NaN,
+        "Notes": "spreadsheet most recently updated 1/12 ",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEp-tJYyWNa/?img_index=1",
-        "Last Updated": "1/11 3:40 AM"
+        "Last Updated": "1/18 12:45 PM"
     },
     {
         "Location": "Remote",
@@ -5052,7 +5067,7 @@
         "Source": "Pro Bono Therapy for Los Angeles Wildfires",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://docs.google.com/spreadsheets/d/1uAMVz8TQMzShQeuEA6kmOP0jyRN7qe1Iiqb6JOLTPqg/edit?fbclid=PAZXh0bgNhZW0CMTEAAaa_gXwdniWrvU6aXni7sWbjDymzlngXylf0-UKrpGbkbMhBDZ-YIVxCt-o_aem_BVx0jHwVtsMOZ_hVNbT_Qg&gid=303232729#gid=303232729",
-        "Last Updated": "1/15 9:14 PM"
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Remote",
@@ -5063,26 +5078,26 @@
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
         "Providing": "therapy for LGBTQ+ youth ages 12-18, support groups",
-        "Notes": NaN,
+        "Notes": "\"Low Cost\" support ",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEpqhmbyi4U/?img_index=1",
-        "Last Updated": "1/11 3:40 AM"
+        "Last Updated": "1/18 12:45 PM"
     },
     {
-        "Location": NaN,
+        "Location": "Greater LA Area",
         "Name": "Faire - FOR SW's",
         "Dates": NaN,
         "Aid Type": "Donation Drives",
         "Address": NaN,
         "Volunteers Needs": NaN,
         "Accepting ": "nonperishable food, clothing & shoes (casual and 'dancewear'), blankets, bedding, pet supplies, toiletries, water, medical supplies, portable chargers, unused cosmetics/hair care",
-        "Providing": NaN,
+        "Providing": "If you are a SW who was affected by the fires, please reach out ",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEnnku8S3fb/",
-        "Last Updated": "1/11 3:40 AM"
+        "Last Updated": "1/18 1:00 PM"
     },
     {
         "Location": "San Gabriel Valley",
@@ -5091,13 +5106,13 @@
         "Aid Type": "Donation Drives",
         "Address": "2300 Pellisser Place, City of Industry, California 90601",
         "Volunteers Needs": "LAFoodBank.org/volunteer.",
-        "Accepting ": "deodorant, toothpaste, toothbrushes, lotion, waterless shampoo, phone chargers (battery pack), socks, mittens (gloves), hand warmers, beanies, blankets\nPeanut and other Nut Butters, Protein-based snacks (bars, peanut butter, protein cookies), Crackers, Peanut Butter Crackers, Cheeze Crackers, Trail Mix, Fruit Snacks, Energy Bars, Pop Top Tuna, Pop Top Chicken, 100% Juice Boxes, Raisins and other dried fruit, UHT Milk, Individual Cereal Boxes, 16-20 oz water, Non-carbonated drinks",
+        "Accepting ": "Diapers (babies & adults), Wipes (preferably flushable), Toilet Tissue, Toothbrushes, Toothpaste, Kids KN95 Masks, Paper Towels, Lotion, Soap, Deodorant, Shampoo (preferably waterless)\nPeanut and other Nut Butters, Crackers, Peanut Butter Crackers, Cheese Crackers, Trail Mix, Fruit Snacks, Energy Bars, Pop Top Tuna, Pop Top Chicken, 100% Juice Boxes, Raisins and other Dried Fruit, UHT Milk, Individual Cereal Boxes, 16-20 oz water, Non-carbonated drinks",
         "Providing": NaN,
         "Notes": NaN,
         "Source": "Los Angeles Food Bank",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.lafoodbank.org/fire/",
-        "Last Updated": "1/11 10:20 AM"
+        "Last Updated": "1/18 1:00 PM"
     },
     {
         "Location": "Vernon",
@@ -5106,13 +5121,13 @@
         "Aid Type": "Donation Drives",
         "Address": "1734 East 41st St, Los Angeles, California 90058 ",
         "Volunteers Needs": "LAFoodBank.org/volunteer.",
-        "Accepting ": "deodorant, toothpaste, toothbrushes, lotion, waterless shampoo, phone chargers (battery pack), socks, mittens (gloves), hand warmers, beanies, blankets\nPeanut and other Nut Butters, Protein-based snacks (bars, peanut butter, protein cookies), Crackers, Peanut Butter Crackers, Cheeze Crackers, Trail Mix, Fruit Snacks, Energy Bars, Pop Top Tuna, Pop Top Chicken, 100% Juice Boxes, Raisins and other dried fruit, UHT Milk, Individual Cereal Boxes, 16-20 oz water, Non-carbonated drinks",
+        "Accepting ": "Diapers (babies & adults), Wipes (preferably flushable), Toilet Tissue, Toothbrushes, Toothpaste, Kids KN95 Masks, Paper Towels, Lotion, Soap, Deodorant, Shampoo (preferably waterless)\nPeanut and other Nut Butters, Crackers, Peanut Butter Crackers, Cheese Crackers, Trail Mix, Fruit Snacks, Energy Bars, Pop Top Tuna, Pop Top Chicken, 100% Juice Boxes, Raisins and other Dried Fruit, UHT Milk, Individual Cereal Boxes, 16-20 oz water, Non-carbonated drinks",
         "Providing": NaN,
         "Notes": NaN,
         "Source": "Los Angeles Food Bank",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.lafoodbank.org/fire/",
-        "Last Updated": "1/11 10:20 AM"
+        "Last Updated": "1/18 1:00 PM"
     },
     {
         "Location": "Santa Monica",
@@ -5136,13 +5151,13 @@
         "Aid Type": "Donation Drives",
         "Address": "1219 N Main St., Los Angeles, California 90012",
         "Volunteers Needs": NaN,
-        "Accepting ": "Toiletries, Blankets, Phone chargers, Pet Food & animal resources, Water Bottles, Snacks (Non-Perishable), Infant care goods",
+        "Accepting ": "Toiletries, Water bottles, Feminine Products, Snacks (non perishable), Elderly Products, Pet Food\n\nNo clothing and fabrics/linens.",
         "Providing": NaN,
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DElIMaYTi05/?hl=en&img_index=1",
-        "Last Updated": "1/11 10:30 AM"
+        "Last Updated": "1/18 1:00 PM"
     },
     {
         "Location": "Little Tokyo",
@@ -5152,42 +5167,12 @@
         "Address": "204 Rose St., Los Angeles, California 90012",
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
-        "Providing": NaN,
+        "Providing": "Providing warm meals, contact on instagram to arrange ",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqRwRRSyOj/?hl=en&img_index=1",
-        "Last Updated": "1/11 10:30 AM"
-    },
-    {
-        "Location": "Torrance",
-        "Name": "Lomita Alehouse",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives",
-        "Address": "24123 Narbonne Ave, Lomita, California 90717",
-        "Volunteers Needs": NaN,
-        "Accepting ": "water, food/snacks, blankets, clothing, N95 masks",
-        "Providing": NaN,
-        "Notes": NaN,
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEk_kauygrG/?hl=en",
-        "Last Updated": "1/11 10:30 AM"
-    },
-    {
-        "Location": "Greater LA Area",
-        "Name": "Peace and Freedom LA - Angelenos Rebuild Volunteer Crew",
-        "Dates": NaN,
-        "Aid Type": "Services",
-        "Address": NaN,
-        "Volunteers Needs": "Community response teams for immediate fire relief: debris cleanup to evacuation support. Register: bit.ly/3DO1WrT",
-        "Accepting ": NaN,
-        "Providing": NaN,
-        "Notes": "All skill levels welcome - we\u2019ll provide training and coordination",
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEscN8KSkkA/?igsh=NTc4MTIwNjQ2YQ%3D%3D",
-        "Last Updated": "1/11 10:30 AM"
+        "Last Updated": "1/18 1:00 PM"
     },
     {
         "Location": "Greater LA Area",
@@ -5198,26 +5183,11 @@
         "Volunteers Needs": NaN,
         "Accepting ": "clothing in Silver Lake, DM for info",
         "Providing": "Direct clothing distribution",
-        "Notes": NaN,
+        "Notes": "Apply for clothing online",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEsdVmuSdj-/?utm_source=ig_web_copy_link",
-        "Last Updated": "1/11 10:35 AM"
-    },
-    {
-        "Location": "Greater LA Area",
-        "Name": "Bums & Roses",
-        "Dates": NaN,
-        "Aid Type": "Free Items",
-        "Address": NaN,
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "children & baby clothes",
-        "Notes": NaN,
-        "Source": "Bum & Roses",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://bumsandroses.com/pages/california-wildfire-donation-support?fbclid=PAZXh0bgNhZW0CMTEAAaZk-5S32iJlJ0-W7cNEIpfsGlirBb2NUa-fDFBkRcu83AAaRmmN94yxSSA_aem_igx0K3aDHHXJeuWoRRElHw",
-        "Last Updated": "1/11 10:35 AM"
+        "Last Updated": "1/18 1:15 PM"
     },
     {
         "Location": "Fairfax",
@@ -5227,12 +5197,12 @@
         "Address": "7257 Melrose Ave, Los Angeles, California 90046",
         "Volunteers Needs": NaN,
         "Accepting ": "bottled water, hand sanitizer, protein bars, deodorant, wipes, diapers, and pet food",
-        "Providing": "vegan food",
-        "Notes": "Also at Long Beach location on 500 W Broadway, Long Beach, California 90802",
+        "Providing": "vegan meals",
+        "Notes": "open until 9pm 1/18",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEnW8C_yGMo/?hl=en",
-        "Last Updated": "1/11 10:55 AM"
+        "Last Updated": "1/18 1:15 PM"
     },
     {
         "Location": "Santa Monica",
@@ -5247,37 +5217,7 @@
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEnMlvXvhqE/",
-        "Last Updated": "1/11 10:55 AM"
-    },
-    {
-        "Location": "Crenshaw",
-        "Name": "Highly Likely",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "4310 W Jefferson Blvd, Los Angeles, California 90016",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "food",
-        "Notes": "Also at Highland Park location on 5526 N Figueroa St Los Angeles, California 90042\n",
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEsLxdeP_dL/",
-        "Last Updated": "1/11 11:00 AM"
-    },
-    {
-        "Location": "DTLA",
-        "Name": "Brooklyn Bagel Bakery",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "2223 Beverly Blvd, Los Angeles, California 90057",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "bagels & spreads",
-        "Notes": NaN,
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DElepMoSrT7/",
-        "Last Updated": "1/11 11:00 AM"
+        "Last Updated": "1/18 1:15 AM"
     },
     {
         "Location": "Highland Park",
@@ -5285,44 +5225,14 @@
         "Dates": NaN,
         "Aid Type": "Free Prepared Meals",
         "Address": "5668 York Blvd, Los Angeles, California 90042",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
+        "Volunteers Needs": "We\u2019re accepting limited volunteers for meal prep and deliveries\u2014DM on Instagram",
+        "Accepting ": "Accepting donations for ingredients to provide meals via Venmo: amiga-amoreLA",
         "Providing": "food, wifi, power",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEnKI5Qv_Dd/",
-        "Last Updated": "1/11 11:00 AM"
-    },
-    {
-        "Location": "Mar Vista",
-        "Name": "Alan's Coffee Roasters",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "12511 Venice Blvd, Los Angeles, California 90066",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "coffee",
-        "Notes": NaN,
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DElBspTS_ES/",
-        "Last Updated": "1/11 11:30 AM"
-    },
-    {
-        "Location": "Remote",
-        "Name": "CutiesLA - Somatics for Surviving: LA Fires",
-        "Dates": NaN,
-        "Aid Type": "Services",
-        "Address": NaN,
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "Somatics for Surviving: LA Fires",
-        "Notes": NaN,
-        "Source": "CutiesLA",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.tickettailor.com/events/transgressivemedicine/1530933",
-        "Last Updated": "1/11 11:30 AM"
+        "Last Updated": "1/18 1:30 PM"
     },
     {
         "Location": "Remote",
@@ -5337,67 +5247,7 @@
         "Source": "Wildfire Relief Fund",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://docs.google.com/forms/d/e/1FAIpQLScCrqFUpXOYv7eAY7lwnuIYVVQ3_7EIX633IeRfBRUb-PApHQ/viewform?pli=1&fbclid=PAZXh0bgNhZW0CMTEAAabIzHBhJtic7A6huE9ZBMSBY-Sfix_ZpDVmJ93hIIoukPhsNYJyZ6BbUjI_aem_9iyphB2ibURd4G9ZN-2F0Q",
-        "Last Updated": "1/11 11:30 AM"
-    },
-    {
-        "Location": "Hollywood",
-        "Name": "The Academy of Magical Arts (AMA) and The Magic Castle",
-        "Dates": NaN,
-        "Aid Type": "Free Items, Donation Drives",
-        "Address": "7001 Franklin Ave, Los Angeles, California 90028\n",
-        "Volunteers Needs": NaN,
-        "Accepting ": "(JAN 14th, 10-3pm) food, gift cards, blankets, bedding, pillows, flashlights, batteries, pet food, deodorant, soap, toothpaste, toothbrushes, detergent, cleaning supplies, new underwear & socks, device chargers, baby formula, diapers, rash cream, childrens toys and books, PPE, heavy-duty garbage bags, work gloves",
-        "Providing": "(JAN 14th, 10-3pm) food, comfort & support (and magic)",
-        "Notes": NaN,
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqi-foyGyX/?img_index=1",
-        "Last Updated": "1/11 11:30 AM"
-    },
-    {
-        "Location": "Highland Park",
-        "Name": "Nooworks",
-        "Dates": NaN,
-        "Aid Type": "Free Items",
-        "Address": "5045 York Blvd, Los Angeles, California 90042",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "clothing",
-        "Notes": NaN,
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEn8nNky9VY/",
-        "Last Updated": "1/11 11:30 AM"
-    },
-    {
-        "Location": "Burbank",
-        "Name": "South Hills Burbank",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals, Free Items",
-        "Address": "222 S Victory Blvd, Burbank, California 91502",
-        "Volunteers Needs": "Looking for local businesses to donate relief supplies",
-        "Accepting ": "toiletries, diapers, formula, non-perishable food, snacks, bottled water, electrolyte beverages",
-        "Providing": "food + supplies (Only 1/11?)",
-        "Notes": NaN,
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqsQ1lPjFd/",
-        "Last Updated": "1/11 11:30 AM"
-    },
-    {
-        "Location": "Silverlake",
-        "Name": "Ruby Fruit",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals, Wifi/Charging",
-        "Address": "3510 W Sunset Blvd, Los Angeles, California 90026",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "food, wifi, power, filtered water, safe space",
-        "Notes": NaN,
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqfbNyyGcB/?img_index=1",
-        "Last Updated": "1/11 11:45 AM"
+        "Last Updated": "1/18 1:30 AM"
     },
     {
         "Location": "Fairfax",
@@ -5406,13 +5256,13 @@
         "Aid Type": "Donation Drives",
         "Address": "8053 W 3rd St, Los Angeles, California 90048",
         "Volunteers Needs": NaN,
-        "Accepting ": "water and individually packaged snacks",
-        "Providing": NaN,
+        "Accepting ": "Venmo donations to provide food to first responders\nVenmo account: @unclepauliesdeli.",
+        "Providing": "food to first responders",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEk2TmIS13L/",
-        "Last Updated": "1/11 11:45 AM"
+        "Last Updated": "1/18 1:30 PM"
     },
     {
         "Location": "Studio City",
@@ -5421,13 +5271,13 @@
         "Aid Type": "Donation Drives",
         "Address": "12023 Ventura Blvd, Los Angeles, California 91604",
         "Volunteers Needs": NaN,
-        "Accepting ": "(1/11 4pm-close) clothing, shoes, blankets, non-perishable food, toiletries, baby supplies, pet food + supplies, towels, bedding, school supplies, reusable water bottles",
-        "Providing": NaN,
+        "Accepting ": "ACCEPTING VENMO DONATIONS ONLY. @Vintage_buvette",
+        "Providing": "donations to fire stations",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqFZoNy4XU/?img_index=1",
-        "Last Updated": "1/11 11:45 AM"
+        "Last Updated": "1/18 1:45 PM"
     },
     {
         "Location": "Remote",
@@ -5577,7 +5427,7 @@
         "Source": "via text",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Culver City",
@@ -5592,7 +5442,7 @@
         "Source": NaN,
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Commerce",
@@ -5607,7 +5457,7 @@
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEstfNZy8IX/",
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "San Fernando Valley",
@@ -5622,7 +5472,7 @@
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DErDziNx3b-/",
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Greater LA Area",
@@ -5632,12 +5482,12 @@
         "Address": NaN,
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
-        "Providing": "1/13: PAUSING REQUESTS DUE TO DEMAND\n\nAirgasmic is providing free air purifiers to high risk households in the L.A. area. Request via form https://docs.google.com/forms/d/e/1FAIpQLSfsjdGhSJSDcUmRU6Cbtx1Bz3LMlshf2Ia74BPoT9gG5XIP3A/viewform",
-        "Notes": NaN,
-        "Source": "Instagram\n\nIG Update 1/13",
+        "Providing": "\n\nAirgasmic is providing free air purifiers to high risk households in the L.A. area. Request via form https://docs.google.com/forms/d/e/1FAIpQLSfsjdGhSJSDcUmRU6Cbtx1Bz3LMlshf2Ia74BPoT9gG5XIP3A/viewform",
+        "Notes": "Open for applications again ",
+        "Source": "Instagram\n\n",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEtdnLhp0wI/?img_index=2&igsh=NTc4MTIwNjQ2YQ==",
-        "Last Updated": "1/13 11:15 AM"
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Koreatown",
@@ -5910,36 +5760,6 @@
         "Last Updated": "1/17 7:30 PM"
     },
     {
-        "Location": "Woodland Hills ",
-        "Name": "World Central Kitchen: Taft High School",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "5461 Winnetka Ave,\nWoodland Hills, CA 91364",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "Meal Service: 12-8 PM",
-        "Notes": "Help WCK provide nourishing hot meals to families impacted by wildfires in California.",
-        "Source": "Website",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://wck.org/news/meal-locations-ca",
-        "Last Updated": "1/17 7:30 PM"
-    },
-    {
-        "Location": "Canoga Park",
-        "Name": "World Central Kitchen: Canoga Park High School",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "6850 CA-27, Canoga Park, CA 91303",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "Meal Service: 12-8 PM",
-        "Notes": "Help WCK provide nourishing hot meals to families impacted by wildfires in California.",
-        "Source": "Website",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://wck.org/news/meal-locations-ca",
-        "Last Updated": "1/17 7:30 PM"
-    },
-    {
         "Location": "DTLA",
         "Name": "Stratia",
         "Dates": NaN,
@@ -5947,42 +5767,12 @@
         "Address": NaN,
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
-        "Providing": "Free skin care products, works space",
-        "Notes": "Delivers skincare to people in need, offers free space to work in DTLA facility, serves as donation drop-off, sorting and storage space.",
-        "Source": "IG stratiaskin",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/13 10:15 AM"
-    },
-    {
-        "Location": "Pasadena",
-        "Name": "Day Laborer Network",
-        "Dates": NaN,
-        "Aid Type": "Distribution Hub",
-        "Address": "500 N Lake Ave, Pasadena CA 91101",
-        "Volunteers Needs": NaN,
-        "Accepting ": "1/15 9am-4pm\nbaby lotion, dish soap, laundry detergent, dispers rash cream, trash bags, reusable cups, heavy duty trash bags, baby clothes, kids clothes, blankets, cellphone chargers, food containers",
-        "Providing": NaN,
-        "Notes": "Drop off on 01/13 9am-6pm",
+        "Providing": "Free skin care products delivered e to people in need\n\nfree space to work in DTLA facility",
+        "Notes": "15% off until 1/21\ncode: LOVELA",
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DExhKTgPD62/",
-        "Last Updated": "1/14 5:30 PM"
-    },
-    {
-        "Location": "Pasadena",
-        "Name": "Saint Andrews School",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives",
-        "Address": "42 Chestnut St\nPasadena, CA 91103",
-        "Volunteers Needs": NaN,
-        "Accepting ": "Toilet paper, laundry detergent, diapers (size 5)\ncall Kobe 801-837-0848 upon arrival",
-        "Providing": NaN,
-        "Notes": NaN,
-        "Source": "Signal",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/13 11:15 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/stratiaskin/",
+        "Last Updated": "1/18 2:45 PM"
     },
     {
         "Location": "Koreatown",
@@ -5994,7 +5784,7 @@
         "Accepting ": "Food, childrens clothing",
         "Providing": NaN,
         "Notes": NaN,
-        "Source": "Discord",
+        "Source": NaN,
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": NaN,
         "Last Updated": "1/13 11:45 AM"
@@ -6027,7 +5817,7 @@
         "Source": "beamorg",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://beam.community/grants/",
-        "Last Updated": "1/13 12:30 PM"
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "East Hollywood",
@@ -6045,79 +5835,34 @@
         "Last Updated": "1/13 1:00 PM"
     },
     {
-        "Location": "Los Angeles",
-        "Name": "LA Fire Form",
-        "Dates": NaN,
-        "Aid Type": "Shelter, Services",
-        "Address": NaN,
-        "Volunteers Needs": NaN,
-        "Accepting ": "Type 1 diabetes medications",
-        "Providing": "Altadena Resource: free housing pets, transport and storage, long term housing leads, document replacement help, Insurance filing workshops, donations and taxes, free clothing, toys, food, household items, free hygiene/hair care, fire relief store, type 1 diabetes medications/supplies, chid care resources, general schooling, debris removal info, builders and architects, free therapy, fire insurance claims, free insurance advice, legal help after a disaster",
-        "Notes": "Resources specific to Altadena,CA",
-        "Source": "LA Fire Forum",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://lafires.iolovesyou.com/",
-        "Last Updated": "1/13 1:00 PM"
-    },
-    {
         "Location": "DTLA",
         "Name": "Fearless LA Church",
-        "Dates": NaN,
+        "Dates": "Jan 18 Saturday",
         "Aid Type": "Shelter, Distribution Hub",
         "Address": "1611 S Hope St, Los Angeles, CA 90015",
         "Volunteers Needs": "Accepting volunteers Monday-Saturday 8 am - 5 pm ",
-        "Accepting ": "Protein bars, snacks/non-perishable food, 2 booster seats (5-6 year old twins), hot meals for volunteers. \n\nNOT accepting clothing ",
+        "Accepting ": NaN,
         "Providing": "Meals, essentials, food, shoes, snacks, waters, clothes, toys, pet food ,beds etc",
         "Notes": NaN,
         "Source": "Instagram ",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/fearless_la/?hl=en",
-        "Last Updated": "1/13 4:30 PM"
-    },
-    {
-        "Location": "Miracle Mile",
-        "Name": "deliveries to affected families: bit.ly/deliveriestofamilies",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives",
-        "Address": "6101 Wilshire Blvd, Los Angeles, CA 90048",
-        "Volunteers Needs": NaN,
-        "Accepting ": "Black hair products, universal hair products, suitcases, duffel bags, air purifiers (DIY or industrial), tylenol (small packs), allergy meds (small packs), cold and flu meds (small packs), nasal spray, laundry detergent pods, baby bottles (new only), crates and plastic storage bins, woundcare products",
-        "Providing": NaN,
-        "Notes": "Open 12-6pm",
-        "Source": NaN,
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/14 8:15 AM"
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Santa Monica",
         "Name": "Santa Monica College",
-        "Dates": NaN,
+        "Dates": "Jan 22 Wednesday, Jan 23 Thursday, Jan 24 Friday, Jan 26 Sunday",
         "Aid Type": "Distribution Hub",
         "Address": "1900 Pico Blvd, Santa Monica, CA 90405",
         "Volunteers Needs": NaN,
-        "Accepting ": "Food (including pasta, lentils, rice and canned goods), hygiene products (including mestration items), baby supplies (including wipes, formula, pacifiers) and new or gently used clothing and blankets",
-        "Providing": NaN,
-        "Notes": "Monday, 01/13 and Tuesday, 01/14, gathering aid for students, employees and other community members ",
-        "Source": "Instagram",
+        "Accepting ": NaN,
+        "Providing": " \nessential aid to students, employees, and community members\n\nFire Disaster Support Distribution January 22-24 and January 26",
+        "Notes": "at Corsair Gym at the Santa Monica College Main Campus\n\nWednesday, Jan. 22, 1 to 6 p.m.\nThursday, Jan. 23, 10 a.m. to 6 p.m.\nFriday, Jan. 24, 10 a.m. to 6 p.m.\nSunday, Jan. 26, 10 a.m. to 5 p.m.\n\nPublic Parking: Metered parking available. Limited parking available in Lot #3; enter from Pico at 17th Street Signal.",
+        "Source": "SMC",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx0iAgOgd6/",
-        "Last Updated": "1/13 12:30 PM"
-    },
-    {
-        "Location": "East LA",
-        "Name": "Altadena Teen Girls Fire Recovery",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives, Services",
-        "Address": "3530 E 15th St Los Angeles, CA 90023",
-        "Volunteers Needs": "None for Monday. Hair stylists needed throughout ",
-        "Accepting ": "Curly hair conditioner, curly hair products, tweezers, school supplies, XXS clothing, XL and XXL clothing\n\nMoisturizer, face sunscreen, diffusers & blow dryers, foundation, concealer, setting spray, body wash, primer, eyelash tools, sensitive skin products, hair/skin care for black folks/poc, lashes, wigs, powerbanks for phones, plain t-shirts, tank tops, blank hoodies, black/white converse or vans, baggs jeans, backpacks, bags/purses",
-        "Providing": "Hygiene products, hair styling services",
-        "Notes": "11am - 5pm Monday for free items. 1pm - 3pm for donation drop-offs",
-        "Source": "Instagram Post",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/altadenagirls/",
-        "Last Updated": "1/13 2:12 PM"
+        "LINK (DO NOT HYPERLINK)": "https://www.smc.edu/news/2025/2025-01-18-smc-foundation-to-hold-a-four-day-fire-disaster-support-distribution-event.php",
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Greater LA Area",
@@ -6127,12 +5872,12 @@
         "Address": NaN,
         "Volunteers Needs": "Movers",
         "Accepting ": NaN,
-        "Providing": "Moving services ",
-        "Notes": "Available within 30 minutes or less. Services all of Los Angeles County",
-        "Source": "Instagram ",
+        "Providing": "free delivery from Hotel Surplus to anyone in need",
+        "Notes": "Visit @HotelSurplus to explore available items.\nDM @Lugg to coordinate delivery.",
+        "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/lugg/?hl=en",
-        "Last Updated": "1/13 2:20 PM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DE25rHQpQKo/?hl=en",
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Pasadena",
@@ -6165,36 +5910,6 @@
         "Last Updated": "1/15/2025 21:00"
     },
     {
-        "Location": "Pasadena",
-        "Name": "PACTL (Pasadena/Altadena Transformative Leaders",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives, Free Items",
-        "Address": "236 West Mountain, Suite #201\nPasadena, California 91103",
-        "Volunteers Needs": NaN,
-        "Accepting ": "air purifiers, hats, sweaters, and backpacks. (FOR kids and adults), shampoo, conditioner, deodorant, lotion, toilet paper, paper towels, wipes, pillows",
-        "Providing": "Clothes, food, hygiene supply",
-        "Notes": "Pick up 10am-5pm",
-        "Source": "IG Update 1/13",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/13 3:00 PM"
-    },
-    {
-        "Location": "Burbank",
-        "Name": "REI Burbank",
-        "Dates": NaN,
-        "Aid Type": "Distribution Hub, Free Items, Donation Drives",
-        "Address": "1900 Empire Ave, Burbank, CA 91504",
-        "Volunteers Needs": NaN,
-        "Accepting ": "non-perishable food, water, hygiene products, gear: tents, backpacks, cooking systems, stoves, cots, tents, sleeping bags, blankets",
-        "Providing": "non-perishable food, water, hygiene products, gear, clothes",
-        "Notes": "(follow parking lot around to the right side of building) We currently have our community room setup as a small donation drop off / pickup center. Call 818-847-9509",
-        "Source": NaN,
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/13 3:45 PM"
-    },
-    {
         "Location": "East Hollywood",
         "Name": "Obet & Del's ",
         "Dates": NaN,
@@ -6210,21 +5925,6 @@
         "Last Updated": "1/16/2025 8:00 AM"
     },
     {
-        "Location": NaN,
-        "Name": "Pepperdine FEMA Training",
-        "Dates": NaN,
-        "Aid Type": "Information",
-        "Address": NaN,
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "Training over Zoom for filling out FEMA forms",
-        "Notes": "Sign up using sign up sheet; Remote Zoom",
-        "Source": "Sign up sheet",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://docs.google.com/forms/d/e/1FAIpQLSdFBmiDkG02Ve803KS6zzC-RpIJnZqwW-75Xe6uSiX_CES5Pw/viewform",
-        "Last Updated": "1/13 4:12 PM"
-    },
-    {
         "Location": "Highland Park",
         "Name": "Jeff's Table ",
         "Dates": NaN,
@@ -6237,7 +5937,7 @@
         "Source": NaN,
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Remote",
@@ -6252,7 +5952,7 @@
         "Source": "Application",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://docs.google.com/forms/d/e/1FAIpQLScDvJcSzHsxQ_M6p5OsVmd04xFyD8_mJYGq_p67skl8SAIX3w/viewform",
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Inland Empire",
@@ -6288,91 +5988,91 @@
         "Location": "Culver City",
         "Name": "Akasha",
         "Dates": NaN,
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Donation Drives, Free Prepared Meals",
         "Address": "9543 Culver Blvd\nCulver City, CA 90232",
         "Volunteers Needs": NaN,
         "Accepting ": "Purchase meal(s) in the restaurant that will be donated to communities in need",
-        "Providing": NaN,
+        "Providing": "meals to first responders & those affected by the fires",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/akashacc/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Westchester",
         "Name": "Ayara Thai",
         "Dates": NaN,
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Donation Drives, Free Prepared Meals",
         "Address": "6245 W 87th St\nLos Angeles, CA 90045",
         "Volunteers Needs": NaN,
         "Accepting ": "Click here to donate community meals (under the signature dishes section of the menu)",
-        "Providing": NaN,
+        "Providing": "meals to first responders & those affected by the fires",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/ayarathai/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Santa Monica",
         "Name": "Kavahana",
         "Dates": NaN,
-        "Aid Type": "Donation Drives, Free Items",
+        "Aid Type": "Donation Drives, Free Items, Free Prepared Meals",
         "Address": "306 Pico Blvd\nSanta Monica, CA 90405",
         "Volunteers Needs": NaN,
         "Accepting ": "Visit to donate a drink.",
-        "Providing": "Drinks available for first responders on site.",
+        "Providing": "Drinks available for first responders on site.\n\nmeals to first responders & those affected by the fires",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/kavahanabar/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "University Park",
         "Name": "La Pupusa Urban Eatery",
         "Dates": NaN,
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Donation Drives, Free Prepared Meals",
         "Address": "1051 W Washington Blv Unit G\nLos Angeles, CA 90015",
         "Volunteers Needs": NaN,
         "Accepting ": "Click here to donate community meals (under community meal at the end of the menu)",
-        "Providing": NaN,
+        "Providing": "meals to first responders & those affected by the fires",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/lapupusadtla/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Silverlake",
         "Name": "Lasorted's Pizza",
         "Dates": NaN,
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Donation Drives, Free Prepared Meals",
         "Address": "2847 Sunset Blvd\nLos Angeles, CA 90026",
         "Volunteers Needs": NaN,
         "Accepting ": "Click here to donate a pizza (order a first responder pie)",
-        "Providing": NaN,
+        "Providing": "meals to first responders",
         "Notes": "Second location at 984 N Broadway, Los Angeles, CA 90012",
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/lasorteds/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Burbank",
         "Name": "Little Nelly Burbank",
         "Dates": NaN,
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Donation Drives, Free Prepared Meals",
         "Address": "3815 W Magnolia Blvd\nBurbank, CA 91505",
         "Volunteers Needs": NaN,
         "Accepting ": "Click here to donate meals to firefighters (under firefighter food fund)",
-        "Providing": NaN,
+        "Providing": "meals to first responders & those affected by the fires",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/littlenellyla/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Sawtelle",
@@ -6382,27 +6082,27 @@
         "Address": "11633 Santa Monica Blvd\nLos Angeles, CA 90025",
         "Volunteers Needs": NaN,
         "Accepting ": "Click here to donate meals (click on Qusqo HOT MEAL for WILDFIRE 1st Responders & Evacuees)",
-        "Providing": "Donating meals to those in need and serving them on site.",
+        "Providing": "meals to those in need and serving them on site.",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/qusqobistro/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Mid-City",
         "Name": "Very Best Cookie",
         "Dates": NaN,
-        "Aid Type": "Donation Drives",
+        "Aid Type": "Free Items, Donation Drives",
         "Address": "2625 S Robertson Blvd\nLos Angeles, CA 90034",
         "Volunteers Needs": NaN,
         "Accepting ": "Click here to donate cookies to firefighters",
-        "Providing": NaN,
+        "Providing": "cookies to first responders & those affected by the fires",
         "Notes": NaN,
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/14 12:00 AM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/theverybestcookie/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Highland Park",
@@ -6412,12 +6112,12 @@
         "Address": "4705 York Blvd\nLos Angeles, CA 90042",
         "Volunteers Needs": NaN,
         "Accepting ": "Purchase meal(s) in the restaurant that will be donated to communities in need.",
-        "Providing": "Serving meals to community on site.",
+        "Providing": "meals to first responders & those affected by the fires",
         "Notes": "(1/17 23:26 update - can't find anything on Wild Crust's own Instagram - https://www.instagram.com/wildcrust.la/ - that they are still doing this...?)",
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEx9wTsyRss/?img_index=2",
-        "Last Updated": "1/17 11:27 PM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/wildcrust.la/",
+        "Last Updated": "1/18 2:30 PM"
     },
     {
         "Location": "Remote",
@@ -6427,27 +6127,12 @@
         "Address": NaN,
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
-        "Providing": "no cost prescription glasses or contact lenses",
+        "Providing": "Free eye care to anyone affected by the fires, including firefighters and first responders\n\nno cost prescription glasses or contact lenses",
         "Notes": "Please email us at inquiry@la-sight.com and we will get you scheduled ASAP!",
         "Source": "Instagram",
         "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEsM8DEPtH7/",
-        "Last Updated": "1/13 11:50 PM"
-    },
-    {
-        "Location": "Long Beach",
-        "Name": "Plantiitas",
-        "Dates": NaN,
-        "Aid Type": "Donation Drives",
-        "Address": "2011 E 4th St, Long Beach, CA 90814",
-        "Volunteers Needs": NaN,
-        "Accepting ": "Wipes, Diapers, Formula, Personal Care Products, Dry Shampoo/Conditioner, Tooth brushes/Paste and Mouth Wash, Personal Undergarments, Blankets, Water",
-        "Providing": NaN,
-        "Notes": "Bring any of the listed items and receive 15% off of pots and plants.",
-        "Source": "Instagram",
-        "Closed ": NaN,
-        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEsh-GCSfoF/?img_index=1",
-        "Last Updated": "1/13 11:50 PM"
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/la_sight_/",
+        "Last Updated": "1/18 2:45 PM"
     },
     {
         "Location": "Remote",
@@ -7418,7 +7103,7 @@
         "Volunteers Needs": NaN,
         "Accepting ": NaN,
         "Providing": "free sleeper sofas, rolling cots\n\ndiscounted furniture",
-        "Notes": "contact: help@hotelsurplus.com",
+        "Notes": "contact: help@hotelsurplus.com\n\nFree delivey availble from Lugg",
         "Source": "Instagram",
         "Closed ": NaN,
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/hotelsurplus",
@@ -7560,6 +7245,21 @@
         "Last Updated": "1/15 8:45 PM"
     },
     {
+        "Location": "East LA",
+        "Name": "Altadena Teen Girls Fire Recovery (ENDED)",
+        "Dates": NaN,
+        "Aid Type": "Donation Drives, Services",
+        "Address": "3530 E 15th St Los Angeles, CA 90023",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": NaN,
+        "Notes": NaN,
+        "Source": NaN,
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": NaN,
+        "Last Updated": "1/18 3:00 PM"
+    },
+    {
         "Location": "Silverlake",
         "Name": "storiesbooksandcafe (ENDED)",
         "Dates": NaN,
@@ -7588,6 +7288,21 @@
         "Closed ": "1",
         "LINK (DO NOT HYPERLINK)": NaN,
         "Last Updated": "1/14 8:45 AM"
+    },
+    {
+        "Location": "Burbank",
+        "Name": "REI Burbank (ENDED)",
+        "Dates": NaN,
+        "Aid Type": "Distribution Hub, Free Items, Donation Drives",
+        "Address": "1900 Empire Ave, Burbank, CA 91504",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": NaN,
+        "Notes": NaN,
+        "Source": NaN,
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": NaN,
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Chatsworth",
@@ -7635,6 +7350,36 @@
         "Last Updated": "1/15 9:00 PM"
     },
     {
+        "Location": "Pasadena",
+        "Name": "Saint Andrews School (ENDED)",
+        "Dates": NaN,
+        "Aid Type": NaN,
+        "Address": "42 Chestnut St\nPasadena, CA 91103",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": NaN,
+        "Notes": NaN,
+        "Source": NaN,
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": NaN,
+        "Last Updated": "1/18 3:00 PM"
+    },
+    {
+        "Location": NaN,
+        "Name": "Pepperdine FEMA Training (CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Information",
+        "Address": NaN,
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "Training over Zoom for filling out FEMA forms",
+        "Notes": "Sign up using sign up sheet; Remote Zoom",
+        "Source": "Sign up sheet",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": "https://docs.google.com/forms/d/e/1FAIpQLSdFBmiDkG02Ve803KS6zzC-RpIJnZqwW-75Xe6uSiX_CES5Pw/viewform",
+        "Last Updated": "1/18 3:00 PM"
+    },
+    {
         "Location": "Greater LA Area",
         "Name": "LAUSD (ENDED)",
         "Dates": NaN,
@@ -7648,6 +7393,21 @@
         "Closed ": "1",
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEncrDHS6tw/?img_index=1",
         "Last Updated": "1/11 3:18 PM"
+    },
+    {
+        "Location": "Los Angeles",
+        "Name": "LA Fire Form (ENDED)",
+        "Dates": NaN,
+        "Aid Type": "Shelter, Services",
+        "Address": NaN,
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": NaN,
+        "Notes": NaN,
+        "Source": NaN,
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": NaN,
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "Agoura Hills",
@@ -7678,6 +7438,21 @@
         "Closed ": "1",
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEsrjmuyH90/?hl=en&img_index=1",
         "Last Updated": "1/17 11:45 PM"
+    },
+    {
+        "Location": "Pasadena",
+        "Name": "PACTL (Pasadena/Altadena Transformative Leaders) (ENDED)",
+        "Dates": NaN,
+        "Aid Type": "Donation Drives, Free Items",
+        "Address": "236 West Mountain, Suite #201\nPasadena, California 91103",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": NaN,
+        "Notes": NaN,
+        "Source": "IG Update 1/13",
+        "Closed ": NaN,
+        "LINK (DO NOT HYPERLINK)": NaN,
+        "Last Updated": "1/18 3:00 PM"
     },
     {
         "Location": "DTLA",
@@ -8461,21 +8236,6 @@
     },
     {
         "Location": "Santa Monica",
-        "Name": "Qusco Bistro (CLOSED)",
-        "Dates": NaN,
-        "Aid Type": "Free Prepared Meals",
-        "Address": "11633 Santa Monica Blvd, Los Angeles, California 90025",
-        "Volunteers Needs": NaN,
-        "Accepting ": NaN,
-        "Providing": "dinner, hot meals to those displaced and frontline workers",
-        "Notes": "reg hours, 5-9 pm, saturday: as long as they can stay open - link was incorrect and no further update found (1/16/25)",
-        "Source": NaN,
-        "Closed ": "1",
-        "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/11/2025 12:51 PM"
-    },
-    {
-        "Location": "Santa Monica",
         "Name": "EATALY (CLOSED)",
         "Dates": NaN,
         "Aid Type": "Free Items, Free Prepared Meals",
@@ -9192,7 +8952,7 @@
         "Source": NaN,
         "Closed ": "1",
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Atwater",
@@ -9222,7 +8982,7 @@
         "Source": NaN,
         "Closed ": "1",
         "LINK (DO NOT HYPERLINK)": NaN,
-        "Last Updated": "1/18 8:39 AM"
+        "Last Updated": "1/18 3:05 PM"
     },
     {
         "Location": "Cheviot Hills",
@@ -9237,7 +8997,7 @@
         "Source": "LA City Emergency Updates",
         "Closed ": "1",
         "LINK (DO NOT HYPERLINK)": "https://emergency.lacity.gov/updates",
-        "Last Updated": "1/18/2025 8:39:42"
+        "Last Updated": "1/18/2025 15:05:47"
     },
     {
         "Location": "Frogtown",
@@ -10438,5 +10198,215 @@
         "Closed ": "1",
         "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/odysseygamespasadena/",
         "Last Updated": "01/16 8:40 PM"
+    },
+    {
+        "Location": "Encino",
+        "Name": "Zartonk Media (Holy Martyrs Ferrahian High School)(CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Donation Drives",
+        "Address": "5300 White Oak Ave, Encino, California 91316",
+        "Volunteers Needs": NaN,
+        "Accepting ": "hygiene items, menstrual supplies, bottled water, blankets, first aid kits, diapers, formula, wipes, paper towels, portable chargers, pet food, new or lightly used clothes",
+        "Providing": NaN,
+        "Notes": "Call 818-396-7005 for info\n\nClosed for donations as of 1/18 ",
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqRm-5Tk0g/?img_index=1",
+        "Last Updated": "1/18 12:30 PM"
+    },
+    {
+        "Location": "Pasadena",
+        "Name": "Zartonk Media (Jivalagian Youth Center)(CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Donation Drives, Distribution Hub",
+        "Address": "2242 E Foothill Blvd, Pasadena, California 91107",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "hygiene items, menstrual supplies, bottled water, blankets, first aid kits, diapers, formula, wipes, paper towels, portable chargers, pet food, new or lightly used clothes",
+        "Notes": "Closes at midnight, not able to take anymore donations at this moment. Call 818-396-7005 for info\n\nClosed for donations as of 1/18 ",
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqRm-5Tk0g/?img_index=1",
+        "Last Updated": "1/18 12:30 PM"
+    },
+    {
+        "Location": "Greater LA Area",
+        "Name": "Canine Rescue Club (CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Animal Boarding",
+        "Address": NaN,
+        "Volunteers Needs": "temporary foster care for dogs displaced by the fires",
+        "Accepting ": NaN,
+        "Providing": NaN,
+        "Notes": "No info about fires as of 1/18; marking Closed",
+        "Source": "Canine Rescue Club",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://linktr.ee/caninerescueclub?fbclid=PAZXh0bgNhZW0CMTEAAaafVEDvjkbXHWyL39UqjY4QXSwz0Ck-ncXS22k71oSY3C8KFlGDJTmcv3E_aem_NsRPJLJNTSs0pxlyajhOJA",
+        "Last Updated": "1/18 1:00 PM"
+    },
+    {
+        "Location": "Greater LA Area",
+        "Name": "Lyft (CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Transportation",
+        "Address": NaN,
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "Promo code CAFIRERELIEF25 for $25 off rides to shelters",
+        "Notes": "only available until 1/15 ",
+        "Source": "Lyft",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.lyft.com/blog/posts/help-for-those-impacted-by-wildfire-in-california",
+        "Last Updated": "1/18 1:00 PM"
+    },
+    {
+        "Location": "Crenshaw",
+        "Name": "Highly Likely (CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Free Prepared Meals",
+        "Address": "4310 W Jefferson Blvd, Los Angeles, California 90016",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "providing meals and wifi 1/11",
+        "Notes": "Also at Highland Park location on 5526 N Figueroa St Los Angeles, California 90042\n",
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEsLxdeP_dL/",
+        "Last Updated": "1/18 1:15 PM"
+    },
+    {
+        "Location": "DTLA",
+        "Name": "Brooklyn Bagel Bakery (CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Free Prepared Meals",
+        "Address": "2223 Beverly Blvd, Los Angeles, California 90057",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "bagels & spreads",
+        "Notes": "No updates since 1/12",
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DElepMoSrT7/",
+        "Last Updated": "1/18 1:30 PM"
+    },
+    {
+        "Location": "Mar Vista",
+        "Name": "Alan's Coffee Roasters (CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Free Prepared Meals",
+        "Address": "12511 Venice Blvd, Los Angeles, California 90066",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "coffee",
+        "Notes": "Free breakfast until 1/17 ",
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DElBspTS_ES/",
+        "Last Updated": "1/18 1:30 PM"
+    },
+    {
+        "Location": "Remote",
+        "Name": "CutiesLA - Somatics for Surviving: LA Fires CLOSED",
+        "Dates": NaN,
+        "Aid Type": "Services",
+        "Address": NaN,
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "Somatics for Surviving: LA Fires",
+        "Notes": "Events on 1/11 and 1/15 ",
+        "Source": "CutiesLA",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.tickettailor.com/events/transgressivemedicine/1530933",
+        "Last Updated": "1/18 1:30 PM"
+    },
+    {
+        "Location": "Hollywood",
+        "Name": "The Academy of Magical Arts (AMA) and The Magic Castle",
+        "Dates": NaN,
+        "Aid Type": "Free Items, Donation Drives",
+        "Address": "7001 Franklin Ave, Los Angeles, California 90028\n",
+        "Volunteers Needs": NaN,
+        "Accepting ": "(JAN 14th, 10-3pm) food, gift cards, blankets, bedding, pillows, flashlights, batteries, pet food, deodorant, soap, toothpaste, toothbrushes, detergent, cleaning supplies, new underwear & socks, device chargers, baby formula, diapers, rash cream, childrens toys and books, PPE, heavy-duty garbage bags, work gloves",
+        "Providing": "(JAN 14th, 10-3pm) food, comfort & support (and magic)",
+        "Notes": NaN,
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqi-foyGyX/?img_index=1",
+        "Last Updated": "1/18 1:30 PM"
+    },
+    {
+        "Location": "Highland Park",
+        "Name": "Nooworks",
+        "Dates": NaN,
+        "Aid Type": "Free Items",
+        "Address": "5045 York Blvd, Los Angeles, California 90042",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "clothing",
+        "Notes": NaN,
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEn8nNky9VY/",
+        "Last Updated": "1/18 1:30 PM"
+    },
+    {
+        "Location": "Silverlake",
+        "Name": "Ruby Fruit",
+        "Dates": NaN,
+        "Aid Type": "Free Prepared Meals, Wifi/Charging",
+        "Address": "3510 W Sunset Blvd, Los Angeles, California 90026",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "food, wifi, power, filtered water, safe space",
+        "Notes": "Closed as of 1/14 ",
+        "Source": "Instagram",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DEqfbNyyGcB/?img_index=1",
+        "Last Updated": "1/18 1:30 PM"
+    },
+    {
+        "Location": "Pasadena",
+        "Name": "World Central Kitchen: Pasadena City College CLOSED - THIS LOCATION ONLY",
+        "Dates": NaN,
+        "Aid Type": "Free Prepared Meals",
+        "Address": "1570 E Colorado Blvd, Pasadena, California 91106",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "Meal Service:  5:00 PM - 8:00 PM ",
+        "Notes": "Help WCK provide nourishing hot meals to families impacted by wildfires in California.",
+        "Source": "This location closed as of 1/18. Other locations still operating",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.instagram.com/p/DElrRAypOQ7/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+        "Last Updated": "1/18 2:00 PM"
+    },
+    {
+        "Location": "Canoga Park",
+        "Name": "World Central Kitchen: Canoga Park High School CLOSED",
+        "Dates": NaN,
+        "Aid Type": "Free Prepared Meals",
+        "Address": "6850 CA-27, Canoga Park, CA 91303",
+        "Volunteers Needs": NaN,
+        "Accepting ": NaN,
+        "Providing": "Meal Service: 12-8 PM",
+        "Notes": "This location closed as of 1/18 according to website and WatchDuty ",
+        "Source": "Website",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://wck.org/news/meal-locations-ca",
+        "Last Updated": "1/18 2:00 PM"
+    },
+    {
+        "Location": "Remote",
+        "Name": "Inclusive Action for the City - Open Air Worker Emergency Fund (APPLICATION CLOSED)",
+        "Dates": NaN,
+        "Aid Type": "Direct Funds/Grants",
+        "Address": NaN,
+        "Volunteers Needs": NaN,
+        "Accepting ": "Financial donations HERE",
+        "Providing": "During the ongoing wildfire emergency in Los Angeles County, Inclusive Action has launched a new emergency fund to help outdoor workers \u2013 street vendors, landscapers, and recyclers \u2013 impacted by the fires.\n\nThrough this fund, impacted outdoor workers can apply for one-time cash assistance support of $500. Recipients will receive cash payments on a first-come, first-served basis, and as funding allows.  ",
+        "Notes": "Apply by Friday, January 17 at 5 pm \n(May reopen in the future)",
+        "Source": "Inclusive Action",
+        "Closed ": "1",
+        "LINK (DO NOT HYPERLINK)": "https://www.inclusiveaction.org/workeraid?fbclid=PAZXh0bgNhZW0CMTEAAaZkn_1Lq6iSZOYQIvMeMceC8GSpJayHFRWZ2EEQYGkmbB3dWbn78oVrnbc_aem_Q7qE6_rYAbftOmCY7ivnNg",
+        "Last Updated": "1/16 11:45 PM"
     }
 ]
