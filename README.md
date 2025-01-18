@@ -4,7 +4,7 @@ This web application provides a platform to locate and search for donation cente
 
 ## Features:
 - **Search Functionality**: Allows users to search for donation centers by items needed or volunteer opportunities.
-- **Real-Time Data**: Loads and displays up-to-date information from a pre-processed JSON file.
+- **Updated Data**: Loads and displays up-to-date information from a pre-processed JSON file.
 - **Responsive Design**: The app is mobile-friendly, ensuring ease of access for users on all devices.
 
 ## Technologies Used:
