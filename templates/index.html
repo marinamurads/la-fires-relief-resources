@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LA Fires Relief Resources</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>LA Fires Relief Resources ❤️‍🩹</h1>
+        <!-- <a href="#" target="_blank">github</a> -->
+
+        <!-- Search Bar -->
+        <div class="search-container">
+            <input type="text" id="search-box" placeholder="Search for items or volunteer opportunities" />
+            <button id="search-button">Search</button>
+        </div>
+
+        <!-- Cards -->
+        <div id="donation-cards" class="donation-cards">
+            {% for center in donation_centers %}
+                <div class="card">
+                    <h3>{{ center['Name'] }}</h3>
+                    <p><strong>Location:</strong> {{ center['Location'] }}</p>
+                    <p><strong>Aid Type Needed:</strong> {{ center['Aid Type'] }}</p>
+                    <p><strong>Dates:</strong> {{ center['Dates'] }}</p>
+                    <!-- <p><strong>Accepiting:</strong> {{ center['Accepting'] }}</p> -->
+                    <p><strong>Providing:</strong> {{ center['Providing'] }}</p>
+                    <p><strong>Source:</strong> {{ center['Source'] }}</p>
+                    <!-- <p><strong>Contact:</strong> {{ center['LINK (DO NOT HYPERLINK)'] }}</p> -->
+                    <a href="{{ center['LINK (DO NOT HYPERLINK)'] }}" target="_blank">Visit Website</a>
+                    <p><strong>Last Updated:</strong> {{ center['Last Updated'] }}</p>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- JavaScript at the end -->
+    <script>
+        // Ensure the DOM is fully loaded before running the function
+        document.addEventListener('DOMContentLoaded', function () {
+            console.log('DOM is loaded'); // Debugging message
+    
+            // Function to search donation centers
+            function searchDonationCenters() {
+                console.log('Search function called'); // Debugging message
+                
+                const query = document.getElementById('search-box').value.trim();
+                console.log(query);
+                fetch(`/api/search?query=${encodeURIComponent(query)}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        const cardsContainer = document.querySelector('#donation-cards');
+                        cardsContainer.innerHTML = ''; // Clear the current cards
+    
+                        // If there are no results, show a message
+                        if (data.length === 0) {
+                            const noResultsCard = document.createElement('div');
+                            noResultsCard.classList.add('card');
+                            noResultsCard.textContent = "No results found.";
+                            cardsContainer.appendChild(noResultsCard);
+                            return;
+                        }
+    
+                        // Otherwise, display the filtered data as cards
+                        data.forEach(center => {
+                            const card = document.createElement('div');
+                            card.classList.add('card');
+                            card.innerHTML = `
+                                <h3>${center["Name"]}</h3>
+                                <p><strong>Location:</strong> ${center["Location"]}</p>
+                                <p><strong>Aid Type Needed:</strong> ${center["Aid Type"]}</p>
+                                <p><strong>Dates:</strong> ${center["Dates"]}</p>
+                                // <p><strong>Accepting:</strong> ${center["Accepting"]}</p>
+                                <p><strong>Providing:</strong> ${center["Providing"]}</p>
+                                <p><strong>Source:</strong> ${center["Source"]}</p>
+                                <a href="${center["LINK (DO NOT HYPERLINK)"]}" target="_blank">Visit Website</a>
+                                <p><strong>Last Updated:</strong> ${center["Last Updated"]}</p>
+                            `;
+                            cardsContainer.appendChild(card);
+                        });
+                    })
+                    .catch(error => console.error("Error fetching search results:", error));
+            }
+    
+            // Attach search functionality to the button
+            document.getElementById('search-button').addEventListener('click', searchDonationCenters);
+    
+            // Allow pressing Enter to trigger the search
+            document.getElementById('search-box').addEventListener('keypress', function (e) {
+                if (e.key === 'Enter') {
+                    searchDonationCenters();
+                }
+            });
+        });
+    </script>
+       
+
+
+
+
+
+
