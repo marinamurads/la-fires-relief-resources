@@ -13,7 +13,7 @@
 
         <!-- Search Bar -->
         <div class="search-container">
-            <input type="text" id="search-box" placeholder="Search for items or volunteer opportunities" />
+            <input type="text" id="search-box" placeholder="Search for items or locations" />
             <button id="search-button">Search</button>
         </div>
 
@@ -25,6 +25,7 @@
                     <p><strong>Location:</strong> {{ center['Location'] }}</p>
                     <p><strong>Aid Type Needed:</strong> {{ center['Aid Type'] }}</p>
                     <p><strong>Dates:</strong> {{ center['Dates'] }}</p>
+                    <p><strong>Address:</strong> {{ center['Address'] }}</p>
                     <!-- <p><strong>Accepiting:</strong> {{ center['Accepting'] }}</p> -->
                     <p><strong>Providing:</strong> {{ center['Providing'] }}</p>
                     <p><strong>Source:</strong> {{ center['Source'] }}</p>
@@ -71,6 +72,7 @@
                                 <p><strong>Location:</strong> ${center["Location"]}</p>
                                 <p><strong>Aid Type Needed:</strong> ${center["Aid Type"]}</p>
                                 <p><strong>Dates:</strong> ${center["Dates"]}</p>
+                                <p><strong>Address:</strong> ${center["Address"]}</p>
                                 <p><strong>Providing:</strong> ${center["Providing"]}</p>
                                 <p><strong>Source:</strong> ${center["Source"]}</p>
                                 <a href="${center["LINK (DO NOT HYPERLINK)"]}" target="_blank">Visit Website</a>

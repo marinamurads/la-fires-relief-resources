@@ -55,6 +55,7 @@ def search_donation_centers():
             "Location": center.get("Location", ""),
             "Aid Type": center.get("Aid Type", ""),
             "Dates": center.get("Dates", ""),
+            "Address": center.get("Address", ""),
             # "Accepting": center.get("Accepting", ""),
             "Providing": center.get("Providing", ""),
             "Source": center.get("Source", ""),
