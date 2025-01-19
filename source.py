@@ -1,8 +1,6 @@
 import pandas as pd
 import json
 
-  # Update this path if the file is stored elsewhere
-
 def process_local_csv(file_path):
     try:
         # Load the CSV file
@@ -19,7 +17,7 @@ def process_local_csv(file_path):
             return
 
         # Set headers from row 4 (index 3) based on available columns
-        headers = df.iloc[1].values[:13]  # Use the first 13 columns as headers
+        headers = df.iloc[1].values[:15]  # Use the first 13 columns as headers
         df = df.iloc[2:]  # Data starts from row 5 (index 4)
         df.columns = headers
 
