@@ -4,7 +4,7 @@ import sys
 
 def getGoogleSeet(spreadsheet_id, outDir, outFile):
   print({spreadsheet_id})
-  url = f'https://docs.google.com/spreadsheets/d/{spreadsheet_id}/export?format=csv'
+  url = f'https://docs.google.com/spreadsheets/d/{spreadsheet_id}/export?format=csv&gid=0'
   response = requests.get(url)
   if response.status_code == 200:
     filepath = os.path.join(outDir, outFile)
