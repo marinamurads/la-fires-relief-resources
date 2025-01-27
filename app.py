@@ -1,15 +1,22 @@
 from flask import Flask, render_template, jsonify, request
+from data import getGoogleSeet
+from source import process_local_csv
 import json
 import os
 import math
+import atexit  # For cleanup on app termination
 
 app = Flask(__name__)
 
 # Path to the pre-processed JSON file
-JSON_FILE_PATH = "data.json"
+JSON_FILE_PATH = 'data.json'
+
+# Path to the temporary file
+TMP_FILE_PATH = 'tmp/data.csv'
 
 def load_donation_centers():
     """Load and clean donation center data from the JSON file."""
+    process_local_csv(TMP_FILE_PATH)
     if os.path.exists(JSON_FILE_PATH):
         with open(JSON_FILE_PATH, "r") as json_file:
             donation_centers = json.load(json_file)
@@ -27,6 +34,18 @@ def load_donation_centers():
     else:
         print(f"JSON file not found at {JSON_FILE_PATH}")
         return []
+
+# Cleanup function to delete the temporary file
+def delete_tmp_file():
+    """Delete the temporary file if it exists."""
+    if os.path.exists(TMP_FILE_PATH):
+        os.remove(TMP_FILE_PATH)
+        print(f"Temporary file '{TMP_FILE_PATH}' has been deleted.")
+    else:
+        print(f"No temporary file '{TMP_FILE_PATH}' found to delete.")
+
+# Ensure temporary file cleanup on app termination
+atexit.register(delete_tmp_file)
 
 # Route to display the donation centers page
 @app.route('/')
@@ -72,4 +91,5 @@ def search_donation_centers():
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))  # Default to 8000 if no PORT env is set
     app.run(host="0.0.0.0", port=port)
+
 

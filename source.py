@@ -1,9 +1,11 @@
 import pandas as pd
 import json
+from data import getGoogleSeet
 
 def process_local_csv(file_path):
     try:
         # Load the CSV file
+        getGoogleSeet('1KMk34XY5dsvVJjAoD2mQUVHYU_Ib6COz6jcGH5uJWDY', 'tmp/', "data.csv")
         df = pd.read_csv(file_path)
 
         # Debug: Show initial data structure
@@ -38,7 +40,8 @@ def process_local_csv(file_path):
         print(f"An error occurred: {e}")
 
 # Run the function
-file_path = "data.csv"  # Ensure this is the correct file path
+
+file_path = "tmp/data.csv"  # Ensure this is the correct file path
 process_local_csv(file_path)
 
 
